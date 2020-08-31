@@ -1,5 +1,5 @@
 
-![website](images/gifwa.gif)
+![website](images/wblogo.jpg)
 
 Ensuring smooth deployment of an application typically involves numerous people and procedures - commonly known as DevOps. So what happened when Tailwind Traders brought in a team of interns to improve the their static sites over the summer? Fortunately, DevOps need not be complex. Let's see how the team used Azure Static Web Apps and GitHub Actions to "do the DevOps" and manage a successful project.
 
