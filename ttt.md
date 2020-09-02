@@ -59,6 +59,7 @@ Prep for session:
 5. DEMO THREE
 
    1. open vscode
+   2. `git pull` in terminal to update the repo with the new github workflow file.
    2. go to `content/news.md`
    3. Copy and paste a new "Loren Ipsum" block
    4. Save file and then run `hugo` in root of repo
