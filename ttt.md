@@ -1,7 +1,14 @@
 TTT - Interns DevOpsin'
 
 [Dry run of talk - 7/2/2020](https://msit.microsoftstream.com/video/4a1ba4ff-0400-8385-2ddd-f1eaed355c13)
-[Director's cut - REQUIRED VIEWING](https://web.microsoftstream.com/video/8855a1ff-0400-8388-b805-f1eaed5e6329)
+
+[Director's cut of talk - REQUIRED VIEWING](https://web.microsoftstream.com/video/8855a1ff-0400-8388-b805-f1eaed5e6329)
+
+[Deck - Sept 3, 2020](https://microsoft.sharepoint.com/:p:/t/StudentZoneatBuild2020/Ed8cjRuGkOVFmwDU_IO5HvwBr1pnO2HjO7I5IPAbfK-M7w?e=XgLa0k)
+
+---
+
+# Requirements
 
 Your computer (windows/mac/linux) requires the following:
 
