@@ -1,6 +1,7 @@
 TTT - Interns DevOpsin'
 
-[Link to dry run of talk - 7/2/2020](https://msit.microsoftstream.com/video/4a1ba4ff-0400-8385-2ddd-f1eaed355c13)
+[Dry run of talk - 7/2/2020](https://msit.microsoftstream.com/video/4a1ba4ff-0400-8385-2ddd-f1eaed355c13)
+[Director's cut - REQUIRED VIEWING](https://web.microsoftstream.com/video/8855a1ff-0400-8388-b805-f1eaed5e6329)
 
 Your computer (windows/mac/linux) requires the following:
 
