@@ -14,7 +14,7 @@ This demo provides you with a static hugo blog to demonstrate how GitHub Actions
 
 ---
 
-## Installation and Deployment
+## Installation, Deployment and more
 
 **Fork, Clone Repo, and enter directory**
 
